@@ -1,0 +1,17 @@
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\bin\Debug\FormMain.exe.config
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\bin\Debug\FormMain.exe
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\bin\Debug\FormMain.pdb
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.Properties.Resources.resources
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.csproj.GenerateResource.cache
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.csproj.CoreCompileInputs.cache
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.exe
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.pdb
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.csprojAssemblyReference.cache
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.FormMain.resources
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.FormDN.resources
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.FormDoiMK.resources
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.FormNhanVien.resources
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.FormTaoVe.resources
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.DanhSachNhanVien.resources
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.DoanhThuTheoNgay.resources
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\FormMain\obj\Debug\FormMain.FormQuanLy.resources

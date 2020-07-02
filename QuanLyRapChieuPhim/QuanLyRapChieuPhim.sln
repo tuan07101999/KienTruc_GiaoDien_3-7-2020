@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormMain", "FormMain\FormMain.csproj", "{AB9E0659-4090-4DBA-95A6-978D937F34C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{7616AC81-BBC6-42C5-8225-2F24EE714333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{63D196D2-3003-4E90-A6ED-AC50E82B4981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9E0659-4090-4DBA-95A6-978D937F34C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9E0659-4090-4DBA-95A6-978D937F34C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9E0659-4090-4DBA-95A6-978D937F34C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9E0659-4090-4DBA-95A6-978D937F34C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7616AC81-BBC6-42C5-8225-2F24EE714333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7616AC81-BBC6-42C5-8225-2F24EE714333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7616AC81-BBC6-42C5-8225-2F24EE714333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7616AC81-BBC6-42C5-8225-2F24EE714333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D196D2-3003-4E90-A6ED-AC50E82B4981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D196D2-3003-4E90-A6ED-AC50E82B4981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D196D2-3003-4E90-A6ED-AC50E82B4981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D196D2-3003-4E90-A6ED-AC50E82B4981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39FD07DF-488E-4E68-8A49-17FF9169D812}
+	EndGlobalSection
+EndGlobal

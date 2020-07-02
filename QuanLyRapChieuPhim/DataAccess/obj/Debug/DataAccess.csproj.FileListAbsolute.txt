@@ -1,0 +1,16 @@
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\bin\Debug\DataAccess.dll
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\bin\Debug\DataAccess.pdb
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\obj\Debug\DataAccess.dll
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\obj\Debug\DataAccess.pdb
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\bin\Debug\Entities.dll
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\bin\Debug\EntityFramework.dll
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\bin\Debug\Entities.pdb
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\bin\Debug\EntityFramework.xml
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\obj\Debug\DataAccess.Migrations.QLRapPhim.resources
+D:\Kien truc\BaiTapLon\QuanLyRapChieuPhim\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
